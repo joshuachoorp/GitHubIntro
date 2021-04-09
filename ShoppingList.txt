@@ -6,3 +6,6 @@ Bananas
 Cherries
 Carrots
 Cereal 
+
+Cucumbers (Jake)
+Radishes (Jake)
